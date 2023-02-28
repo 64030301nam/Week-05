@@ -132,7 +132,7 @@ __หมายเหตุ__
  หรือ 
  + Maxvalue             // ในกรณีที่ยังไม่รู้ชนิดล่วงหน้า 
 
-```
+```                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 ในกรณีที่ชื่อฟังก์ชันเหมือนกันแต่มี parameter ต่างกันให้เขียน parameter  เป็น (...) แล้วใช้ฟังก์ชันเดียวเท่านั้น
 
 ----------
@@ -140,4 +140,33 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
-
+## 1.Byte ##
+![image](https://user-images.githubusercontent.com/115066329/221742971-75c9565c-d7fc-4a0a-bc2d-f8dbc7e7cb77.png)
+## 2.short(int16) ##
+![image](https://user-images.githubusercontent.com/115066329/221743375-24174f27-4f38-4f17-b10a-1d32a7c6dee7.png)
+## 3.ushort(Uint16) ##
+![image](https://user-images.githubusercontent.com/115066329/221743878-f442c7d4-58d7-44d3-a4e5-af11c6bc5ccf.png)
+## 4.int (Int32) ##
+![image](https://user-images.githubusercontent.com/115066329/221744133-d2ebf72b-72ad-4e05-9b9e-f57e3ce76266.png)
+## 5.Uint (Uint32) ##
+![image](https://user-images.githubusercontent.com/115066329/221744450-fcb6e923-1841-420a-a448-291129dafa9a.png)
+## 6.long (int64) ##
+![image](https://user-images.githubusercontent.com/115066329/221744675-5921896c-bbc4-4922-bf7b-5f2dd7d3f2dd.png)
+## 7.ulong (Uint64) ##
+![image](https://user-images.githubusercontent.com/115066329/221744884-5c7c7245-948a-4331-aa64-3be851ef8322.png)
+## 8.float(Single) ##
+![image](https://user-images.githubusercontent.com/115066329/221745974-b0c54c3c-d5f0-4400-8a71-18887a1eb278.png)
+## 9.Double ##
+![image](https://user-images.githubusercontent.com/115066329/221746452-774f5476-acc1-4e03-ab6a-302acba15c27.png)
+## 10.bool ##
+![image](https://user-images.githubusercontent.com/115066329/221746792-125ab380-7f58-4e4f-9faa-e76364b9e2cc.png)
+## 11.char ##
+![image](https://user-images.githubusercontent.com/115066329/221749241-61da2ef8-eb0c-407a-8624-b179c7e6f72d.png)
+## 12.decimal ##
+![image](https://user-images.githubusercontent.com/115066329/221753711-de22ddbf-d0e7-4f1f-a7ca-f019c5bcbb7f.png)
+![image](https://user-images.githubusercontent.com/115066329/221753787-86722b31-825e-4d33-8969-fcd9eea970ff.png)
+![image](https://user-images.githubusercontent.com/115066329/221753910-6c530928-2e4a-43fa-8533-7662fbc84536.png)
+![image](https://user-images.githubusercontent.com/115066329/221753962-672cc69a-41d0-4265-b32f-5bbaa8b76ddf.png)
+![image](https://user-images.githubusercontent.com/115066329/221754013-1cf22f25-fdb3-4095-ad91-a780a57cadeb.png)
+## 13.object ##
+![image](https://user-images.githubusercontent.com/115066329/221750498-17fd5a52-7e68-4c0f-99ad-157aa026a3c2.png)
